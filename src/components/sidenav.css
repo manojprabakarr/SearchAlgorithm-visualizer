@@ -1,0 +1,30 @@
+.sidenav {
+  background-color: black;
+  height: 100vh;
+  margin-top: 0px;
+}
+
+.sidenav > h2 {
+  text-align: center;
+  color: #ff7779;
+  padding: 50px;
+}
+
+#page {
+  margin-top: 20px;
+  color: whitesmoke;
+  text-decoration: none;
+
+  line-height: 2.5em;
+  text-align: center;
+  font-weight: 400;
+}
+
+.sidenav > h4 {
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
