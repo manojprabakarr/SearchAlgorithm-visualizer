@@ -9,11 +9,11 @@ function Sidenav() {
 
       <div className="route">
         <Link id="page" to="/">
-          <h3>Linear Search</h3>
+          <h3> Linear Search</h3>
         </Link>
 
-        <Link to="/binary">
-          <h3 id="page">Binary Search</h3>
+        <Link id="page" to="/binary">
+          <h3>Binary Search</h3>
         </Link>
       </div>
       <h4>algorithm visualizer copyright</h4>
